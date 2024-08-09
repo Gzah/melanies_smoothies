@@ -1,10 +1,11 @@
 # requirements.txt
 snowflake-snowpark-python
 streamlit
+requests
 
 snowflake-connector-python
 ###snowflake-snowpark-python==0.7.0
 #streamlit==1.31.1
-###requests
+
 ###streamlit==1.22.0
 ###python==3.8.0
